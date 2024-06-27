@@ -1,2 +1,2 @@
 # TOP
-learning web apps
+learning web apps with The Odin Projects
